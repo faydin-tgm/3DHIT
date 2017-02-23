@@ -1,8 +1,20 @@
+commit bc1c84cfb366e8517f5dab4fe95117eaff62ba3d
+Author: Faydin <faydin@student.tgm.ac.at>
+Date:   Thu Feb 23 11:02:15 2017 +0100
+
+    log
+
+ git1.log | 17 +++++++++++++++++
+ 1 file changed, 17 insertions(+)
+
 commit e8251e107a2aebe51717f7973b998b2a8a1c15e8
 Author: Faydin <faydin@student.tgm.ac.at>
 Date:   Thu Feb 23 10:47:30 2017 +0100
 
     change4
+
+ src/HelloWorld.java | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
 
 commit 0f69a1c640613f0870e875d902b4beb9c630a032
 Author: Faydin <faydin@student.tgm.ac.at>
@@ -10,8 +22,19 @@ Date:   Thu Feb 23 10:44:34 2017 +0100
 
     change2
 
+ src/Main.java | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
 commit bf41bd699c2cb8b06876a4acd995b533abe67e0c
 Author: Faydin <faydin@student.tgm.ac.at>
 Date:   Thu Feb 23 10:41:10 2017 +0100
 
     commit1
+
+ .classpath                           |  6 ++++++
+ .gitignore                           |  1 +
+ .project                             | 17 +++++++++++++++++
+ .settings/org.eclipse.jdt.core.prefs | 11 +++++++++++
+ src/HelloWorld.java                  |  6 ++++++
+ src/Main.java                        |  6 ++++++
+ 6 files changed, 47 insertions(+)
